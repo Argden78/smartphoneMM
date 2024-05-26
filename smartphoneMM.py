@@ -38,4 +38,4 @@ telefon.application(int(input("Podaj ile zajmuje aplikacja: ")))
 telefon.check_status(status)
 
 
-
+print("test")
